@@ -13,7 +13,7 @@ Viewing a customer:
 
 ![alt tag](http://i.imgur.com/I8hXdUk.png)
 
-Editing customer data (with validation):
+Adding a new customer:
 
 ![alt tag](http://i.imgur.com/XejKbpv.png)
 
